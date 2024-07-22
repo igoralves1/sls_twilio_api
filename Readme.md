@@ -27,8 +27,6 @@ Steps :
 8. docker ps -a
 
 
-
-
 9. Clone the repo
 
 ```
