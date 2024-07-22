@@ -48,13 +48,19 @@ git checkout dynamo_local
 npm install
 ```
 
-5. Run the serverless offline 
+5. Install Serverless Offline
+
+```
+npm i -g serverless-offine
+```
+
+6. Run the serverless offline 
 
 ```
 sls offline start
 ```
 
-6. In `another terminal` run start docker - Run the Dynamo locally (docker compose up)
+1. In `another terminal` run start docker - Run the Dynamo locally (docker compose up)
 
 ```
 docker compose up
